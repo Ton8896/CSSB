@@ -1,0 +1,40 @@
+.bottone-grigio{
+    font-weight: lighter;
+    text-decoration: none;
+    border:1px solid lightgray;
+    color: lightgray;
+    padding: 16px 24px;
+    border-radius: 50px; 
+}
+
+.bottone-grigio:hover{
+    border: 1px solid gray;
+    color: gray;
+}
+
+.bottone-verde{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: lightgreen;
+    padding: 16px 24px;
+    border-radius: 5px;
+    color: white;
+}
+
+.bottone-verde:hover{
+    background-color: darkgreen;
+}
+
+.bottone-mio{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: red;
+    border-radius: 50%;
+    padding: 30px;
+    color: white;
+    border: 2px solid darkred;
+}
+
+.bottone-mio:hover{
+    background-color: darkred;
+}

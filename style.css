@@ -1,0 +1,32 @@
+@import url("componenti/banner.css");
+@import url("componenti/button.css");
+@import url("componenti/card.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container-1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.text{
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+  margin-top: 0;
+}
+
+p{
+  margin-bottom: 40px;
+}
+
+.container-2{
+  margin-top: 40px;
+  text-align: center;
+}
+

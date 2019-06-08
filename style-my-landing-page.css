@@ -1,0 +1,17 @@
+@import url("componenti/final.css");
+@import url("componenti/banner.css");
+@import url("componenti/button.css");
+@import url("componenti/card.css");
+@import url("componenti/description.css");
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+  }
+
+h1, h2, h3 {
+    font-family: Raleway, Helvetica, sans-serif;
+    margin-top: 0;
+  }
+  
+
